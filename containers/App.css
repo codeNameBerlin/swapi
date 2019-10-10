@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Octin Spraypaint A Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Octin Spraypaint A Regular'), url('octin spraypaint a rg.woff') format('woff');
+}
+
+h1 {
+  font-family: 'Octin Spraypaint A Regular';
+  font-weight: 200;
+  color: #bccac4;
+}
+
